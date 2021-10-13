@@ -1,6 +1,6 @@
 {
   "name": "@wj-cli-demo/core",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "description": "> TODO: description",
   "author": "bywj94 <wjangianpz@163.com>",
   "homepage": "",
@@ -33,5 +33,5 @@
     "root-check": "^1.0.0",
     "semver": "^7.3.5"
   },
-  "gitHead": "ee0a430412f7efb3212f64a7cd79e9681a67bedd"
+  "gitHead": "0354ad5790344bc48a11ae000abd4c21b86dc716"
 }
