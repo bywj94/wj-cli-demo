@@ -1,6 +1,6 @@
 {
   "name": "get-npm-info",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "> TODO: description",
   "author": "ThatisByWj <wjangianpz@163.com>",
   "homepage": "",
@@ -13,7 +13,9 @@
   "files": [
     "lib"
   ],
-  "publishConfig":{"access":"public"},
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
