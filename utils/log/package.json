@@ -1,8 +1,8 @@
 {
   "name": "@wj-cli-demo/log",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "description": "> TODO: description",
-  "author": "ThatisByWj <wjangianpz@163.com>",
+  "author": "bywj94 <wjangianpz@163.com>",
   "homepage": "",
   "license": "ISC",
   "main": "lib/index.js",
@@ -22,5 +22,5 @@
   "dependencies": {
     "npmlog": "^5.0.1"
   },
-  "gitHead": "568ceeb766f4e4d795ffd4632b6584641fe299f1"
+  "gitHead": "ee0a430412f7efb3212f64a7cd79e9681a67bedd"
 }

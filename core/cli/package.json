@@ -1,8 +1,8 @@
 {
   "name": "@wj-cli-demo/core",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "description": "> TODO: description",
-  "author": "ThatisByWj <wjangianpz@163.com>",
+  "author": "bywj94 <wjangianpz@163.com>",
   "homepage": "",
   "license": "ISC",
   "main": "lib/core.js",
@@ -23,8 +23,8 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@wj-cli-demo/get-npm-info": "^0.0.1",
-    "@wj-cli-demo/log": "^0.0.1",
+    "@wj-cli-demo/get-npm-info": "file:../../utils/get-npm-info",
+    "@wj-cli-demo/log": "file:../../utils/log",
     "colors": "^1.4.0",
     "dotenv": "^10.0.0",
     "import-local": "^3.0.2",
@@ -33,5 +33,5 @@
     "root-check": "^1.0.0",
     "semver": "^7.3.5"
   },
-  "gitHead": "568ceeb766f4e4d795ffd4632b6584641fe299f1"
+  "gitHead": "ee0a430412f7efb3212f64a7cd79e9681a67bedd"
 }
