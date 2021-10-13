@@ -1,6 +1,6 @@
 {
-  "name": "get-npm-info",
-  "version": "0.0.1",
+  "name": "@wj-cli-demo/get-npm-info",
+  "version": "0.0.0",
   "description": "> TODO: description",
   "author": "ThatisByWj <wjangianpz@163.com>",
   "homepage": "",
@@ -15,6 +15,10 @@
   ],
   "publishConfig": {
     "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github2.com:bywj94/wj-cli-demo.git"
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"

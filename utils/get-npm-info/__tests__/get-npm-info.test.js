@@ -2,6 +2,6 @@
 
 const getNpmInfo = require('..');
 
-describe('get-npm-info', () => {
+describe('@wj-cli-demo/get-npm-info', () => {
     it('needs tests');
 });
