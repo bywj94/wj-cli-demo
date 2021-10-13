@@ -1,6 +1,6 @@
 {
   "name": "@wj-cli-demo/log",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "description": "> TODO: description",
   "author": "ThatisByWj <wjangianpz@163.com>",
   "homepage": "",
@@ -22,5 +22,5 @@
   "dependencies": {
     "npmlog": "^5.0.1"
   },
-  "gitHead": "5aa8889e2cea6ccd74e0a04695f01a6784314cde"
+  "gitHead": "568ceeb766f4e4d795ffd4632b6584641fe299f1"
 }

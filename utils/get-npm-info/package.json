@@ -1,6 +1,6 @@
 {
   "name": "@wj-cli-demo/get-npm-info",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "description": "> TODO: description",
   "author": "ThatisByWj <wjangianpz@163.com>",
   "homepage": "",
@@ -27,5 +27,6 @@
     "axios": "^0.23.0",
     "semver": "^7.3.5",
     "url-join": "^4.0.1"
-  }
+  },
+  "gitHead": "568ceeb766f4e4d795ffd4632b6584641fe299f1"
 }
